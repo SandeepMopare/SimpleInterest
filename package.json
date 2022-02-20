@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "test myapp",
-    "start": "node server.js"
+    "start": "node SimpleInterest.js"
   },
   "keywords": [
     "express",
