@@ -1,7 +1,7 @@
 FROM node:7
-WORKDIR /simpleinterest
+WORKDIR /app
 COPY package.json /app
 RUN npm install
 COPY . /app
-CMD node server.js
-EXPOSE 8081
+CMD node SimpleInterest.js
+EXPOSE 8082
