@@ -2,7 +2,7 @@
   "name": "express1",
   "version": "1.0.0",
   "description": "This is test application",
-  "main": "app.js",
+  "main": "SImpleInterest.js",
   "scripts": {
     "test": "test myapp",
     "start": "node SimpleInterest.js"
