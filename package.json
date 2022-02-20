@@ -4,7 +4,8 @@
   "description": "This is test application",
   "main": "app.js",
   "scripts": {
-    "test": "test myapp"
+    "test": "test myapp",
+    "start": "node server.js"
   },
   "keywords": [
     "express",
